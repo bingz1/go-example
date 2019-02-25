@@ -1,0 +1,4 @@
+{
+  "websocket监听端口": "建议nginx做代理转发",
+  "wsPort": 7777
+}

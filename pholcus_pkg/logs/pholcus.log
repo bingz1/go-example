@@ -1,0 +1,123 @@
+2018/10/23 17:53:58 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2018/10/23 17:55:35 [I]  *     不使用代理IP
+
+2018/10/23 17:55:35 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2018/10/23 17:55:35 [I]  *     采集引擎池容量为 1
+
+2018/10/23 17:55:35 [I]  *     并发协程最多 20 个
+
+2018/10/23 17:55:35 [I]  *     默认随机停顿 150~600 毫秒
+
+2018/10/23 17:55:35 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2018/10/23 17:55:35 [I]  *********************************************************************************************************************************** 
+2018/10/23 17:55:35 [D]  *     Start: http://www.woyaogexing.com/touxiang/index.html
+2018/10/23 17:55:35 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_3.html
+2018/10/23 17:55:35 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_4.html
+2018/10/23 17:55:36 [I]  *     Success: http://www.woyaogexing.com/touxiang/index.html
+
+2018/10/23 17:55:36 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_3.html
+
+2018/10/23 17:55:36 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_4.html
+
+2018/10/23 17:55:36 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_5.html
+2018/10/23 17:55:36 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_6.html
+2018/10/23 17:55:36 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_5.html
+
+2018/10/23 17:55:36 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_6.html
+
+2018/10/23 17:55:36 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_7.html
+2018/10/23 17:55:37 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_8.html
+2018/10/23 17:55:37 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_7.html
+
+2018/10/23 17:55:37 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_9.html
+2018/10/23 17:55:37 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_8.html
+
+2018/10/23 17:55:37 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_10.html
+2018/10/23 17:55:37 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_9.html
+
+2018/10/23 17:55:37 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_10.html
+
+2018/10/23 17:55:38 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_11.html
+2018/10/23 17:55:38 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_11.html
+
+2018/10/23 17:55:38 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_12.html
+2018/10/23 17:55:38 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_12.html
+
+2018/10/23 17:55:38 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_13.html
+2018/10/23 17:55:39 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_13.html
+
+2018/10/23 17:55:39 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_14.html
+2018/10/23 17:55:39 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_14.html
+
+2018/10/23 17:55:39 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_15.html
+2018/10/23 17:55:40 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_16.html
+2018/10/23 17:55:40 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_15.html
+
+2018/10/23 17:55:40 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_17.html
+2018/10/23 17:55:40 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_16.html
+
+2018/10/23 17:55:40 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_17.html
+
+2018/10/23 17:55:40 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_18.html
+2018/10/23 17:55:41 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_18.html
+
+2018/10/23 17:55:41 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_19.html
+2018/10/23 17:55:41 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_19.html
+
+2018/10/23 17:55:41 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_20.html
+2018/10/23 17:55:42 [I]  *     Success: http://www.woyaogexing.com/touxiang/index_20.html
+
+2018/10/23 17:55:42 [D]  *     Start: http://www.woyaogexing.com/touxiang/index_21.html
+2018/10/23 18:00:46 [I]  * 
+2018/10/23 18:00:46 [P]  *     [数据输出：QQ头像和昵称抓去和下载 | KEYIN：	
+ | 批次：1]   数据 456 条！
+
+2018/10/23 18:00:46 [I]  *     [添加成功记录]: 19 条
+
+2018/10/23 18:00:46 [I]  * 
+2018/10/23 18:00:46 [P]  *     [任务小计：QQ头像和昵称抓去和下载 | KEYIN：	
+]   共采集数据 456 条，用时 5m10.438196441s！
+
+2018/10/23 18:00:46 [I]  * 
+2018/10/23 18:00:46 [I]  *********************************************************************************************************************************** 
+2018/10/23 18:00:46 [I]  * 
+2018/10/23 18:00:46 [P]  *                            —— 任务中途取消：合计采集【数据 456 条】， 实爬【成功 19 URL + 失败 0 URL = 合计 19 URL】，耗时【5m10.438242032s】 ——
+2018/10/23 18:00:46 [I]  * 
+2018/10/23 18:00:46 [I]  *********************************************************************************************************************************** 
+2018/10/23 18:01:28 [I]                                                                                                ！！当前运行模式为：[ 客户端 ] 模式！！
+2018/10/23 18:02:10 [E] close of nil channel
+2018/10/23 18:02:52 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2018/10/23 18:26:35 [I]  *     不使用代理IP
+
+2018/10/23 18:26:35 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2018/10/23 18:26:35 [I]  *     采集引擎池容量为 1
+
+2018/10/23 18:26:35 [I]  *     并发协程最多 20 个
+
+2018/10/23 18:26:35 [I]  *     默认随机停顿 150~600 毫秒
+
+2018/10/23 18:26:35 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2018/10/23 18:26:35 [I]  *********************************************************************************************************************************** 
+2018/10/23 18:26:35 [D]  *     Start: http://accounts.lewaos.com/
+2018/10/23 18:26:41 [I]  *     + 失败请求: [http://accounts.lewaos.com/]
+
+2018/10/23 18:26:41 [E]  *     Fail  [download][http://accounts.lewaos.com/]: Get http://accounts.lewaos.com/: dial tcp: lookup accounts.lewaos.com: no such host
+
+2018/10/23 18:26:41 [I]  *     - 失败请求: [http://accounts.lewaos.com/]
+
+2018/10/23 18:26:41 [D]  *     Start: http://accounts.lewaos.com/
+2018/10/23 18:26:47 [E]  *     Fail  [download][http://accounts.lewaos.com/]: Get http://accounts.lewaos.com/: dial tcp: lookup accounts.lewaos.com: no such host
+
+2018/10/23 18:26:47 [I]  *     [添加失败记录]: 1 条
+
+2018/10/23 18:26:47 [P]  *     [任务小计：乐蛙登录测试 | KEYIN：]   无采集结果，用时 12.341658961s！
+
+2018/10/23 18:26:47 [I]  * 
+2018/10/23 18:26:47 [I]  *********************************************************************************************************************************** 
+2018/10/23 18:26:47 [I]  * 
+2018/10/23 18:26:47 [P]  *                            —— 本次无采集结果，实爬【成功 0 URL + 失败 1 URL = 合计 1 URL】，耗时【12.341767036s】 ——
+2018/10/23 18:26:47 [I]  * 
+2018/10/23 18:26:47 [I]  *********************************************************************************************************************************** 
+2018/10/23 18:30:05 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
